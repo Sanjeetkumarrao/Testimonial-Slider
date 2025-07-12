@@ -38,5 +38,5 @@ function updateTestimonial() {
   }
   setTimeout(() => {
     updateTestimonial();
-  }, 1000);
+  }, 10000);
 }
